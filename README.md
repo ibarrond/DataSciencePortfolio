@@ -13,6 +13,7 @@ The projects cover a variety of topics and algorithms:
 | Regression  |       Random Forests       |                Airplane Delay         |
 | Simulation  |         MonteCarlo         |                Finantial Risk         |
 | Clustering  |       KMeans               | Network Traffic and Anomaly Detection |
+| Clustering  |       KMeans               |          Timeseries of NeuroImages    |
 
 ## Details
 * _Language_: Python over Jupyter Notebooks.
