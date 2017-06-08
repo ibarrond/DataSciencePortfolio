@@ -1,17 +1,20 @@
 # Algorithmic Machine Learning
-Portfolio of Machine Learning algorithms implemented in ipython notebooks over well known datasets for various purposes. 
+----------
+Data Science portfolio of ipython notebooks implementing several Machine Learning algorithms following a structured, well-organized methodology to face each challenge: 
+
+[Data acquisition -> Data cleaning -> Data analysis -> Algorithm implementation -> Algorithm applied to dataset -> further optimization and advanced topics] 
 
 The notebooks cover a variety of topics and algorithms:
 
-|  Algorithm  |           Model            |                       Dataset         |
+|  Algorithm  |           Model            |                       Topic         |
 |-------------|:--------------------------:|--------------------------------------:|
 | Recommender | Matrix Factorization - ALS | LastFM music-user-artist data         |
 | Regression  |       Random Forests       |                Airplane Delay         |
-| Simulation  |         MonteCarlo         |                Finantial Risk         |
+| Simulation  |   MonteCarlo in TimeSeries        |                Finantial Risk         |
 | Clustering  |       KMeans               | Network Traffic and Anomaly Detection |
-| Clustering  |       KMeans               |          Timeseries of NeuroImages    |
+| Clustering  |   KMeans in TimeSeries     |          Timeseries of NeuroImages    |
 
-The last couple of notebooks come from a **Challenge by SAFRAN**, two three-hour sessions as part of their recruitment process. They served as the ultimate test to everything learnt beforehand, since no work was allowed out of the sessions.
+The last couple of notebooks belong to a **Challenge by SAFRAN**, two three-hour sessions that were part of their recruitment process. They served as the ultimate test to everything learnt beforehand, since no work was allowed out of the sessions.
 
 ## Details
 * _Language_: Python over Jupyter Notebooks.
