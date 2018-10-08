@@ -1,4 +1,4 @@
-# Algorithmic Machine Learning
+# Data Science Portfolio
 ----------
 Data Science portfolio of ipython notebooks implementing several Machine Learning algorithms following a structured, well-organized methodology to face each challenge: 
 
